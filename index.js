@@ -69,3 +69,5 @@ for (let i = 0; i < pouletTab.length; i++) {
   console.log(pouletTab[i]);
 }
 console.log("la boulcle est fini");
+
+console.log("juste pour le plaisir ");
