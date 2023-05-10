@@ -1,6 +1,3 @@
-// // console.log(poulet);
-// // poulet = 42;
-// // console.log(poulet);
 // age = age + 1;
 // const statut = " Chicken Lord";
 // console.log(
